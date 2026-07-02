@@ -2,7 +2,7 @@
 
 A modern technology solutions platform showcasing innovative products and services for the digital age.
 
-![TechHub Preview](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200)
+<img src="/techhub.png" alt="Techhub preview">
 
 ## ✨ Features
 
