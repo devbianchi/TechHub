@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div className="min-h-screen py-12 px-4">
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-4xl py-10 mx-auto">
         <h1 className="text-4xl font-bold mb-8">About TechHub</h1>
 
         <div className="space-y-8">

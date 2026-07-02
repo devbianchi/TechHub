@@ -24,7 +24,7 @@ const Services = () => {
 
   return (
     <div className="min-h-screen py-12 px-4">
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl py-10 mx-auto">
         <h1 className="text-4xl font-bold mb-4">Our Services</h1>
         <p className="text-gray-400 mb-12">Professional technology services to help your business thrive</p>
 

@@ -20,7 +20,7 @@ const Contact = () => {
 
   return (
     <div className="min-h-screen py-12 px-4">
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl py-10 mx-auto">
         <h1 className="text-4xl font-bold mb-4">Get in Touch</h1>
         <p className="text-gray-400 mb-12">Have a question or want to work together? We'd love to hear from you.</p>
 
