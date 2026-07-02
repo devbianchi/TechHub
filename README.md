@@ -36,7 +36,7 @@ A modern technology solutions platform showcasing innovative products and servic
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/devbianchi/TechHub.git
 cd techhub
 
 # Install dependencies
@@ -57,9 +57,6 @@ npm run build
 
 # Preview production build
 npm run preview
-
-# Start backend server
-npm start
 ```
 
 ## 🎨 Color Palette
@@ -106,12 +103,7 @@ src/
 | `npm run dev` | Start development server |
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build |
-| `npm start` | Start Express backend server |
 
 ## 📝 License
 
 Private project - All rights reserved.
-
-## 👥 About TechHub
-
-Founded in 2020, TechHub provides cutting-edge technology solutions in AI, cloud computing, cybersecurity, and software development. We help businesses transform and thrive in the digital age.
